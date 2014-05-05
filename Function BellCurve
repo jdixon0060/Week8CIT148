@@ -1,0 +1,19 @@
+Function getCurveGrade (ByVal Avg as Double)
+	Dim newAvg as Double = 0
+	Dim bellGrade as Double = 0
+		If lstGradeArray.Items.Count > 0 Then
+		  For i As Integer = 0 To lstGradeArray.Items.Count -1
+		  newAvg += Cdbl(lstGradeArray.items(1))
+		  Select Case bellGrade
+			Case Is > newAvg + 24
+				Return "A"
+			Case Is > newAvg + 12
+				Return "B"
+			Case Is += newAvg
+				Return "C"
+			Case Is < newAvg - 12
+				Return "D"
+			Case Is < newAvg - 24
+				Return "F"
+		  End Select
+		End Function
