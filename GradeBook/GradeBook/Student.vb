@@ -1,5 +1,5 @@
 ﻿Class Student
-    Private m_name As String    'Student name
+    Private m_name As String     'Student name
     Private m_average As Double 'Student average
     Private m_scores As Double() 'Student scores
 
@@ -12,9 +12,9 @@
         End Set
     End Property
 
-    Public Property Average() As Double '
+    Public Property Average() As Double
         Get
-            Return Average
+            Return Math.Round(m_average)
         End Get
         Set(value As Double)
             m_average = value

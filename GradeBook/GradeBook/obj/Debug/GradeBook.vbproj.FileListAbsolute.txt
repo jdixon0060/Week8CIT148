@@ -1,2 +1,11 @@
 C:\Users\Michael-Shawn Bishop\AppData\Local\Temporary Projects\GradeBook\bin\Debug\GradeBook.exe.config
 D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\bin\Debug\GradeBook.xml
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.frmGradeBook.resources
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.Resources.resources
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.vbproj.GenerateResource.Cache
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.xml
+D:\Users\Michael-Shawn Bishop\Documents\College Files\Spring 2014\CIT 148\Group Project\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
